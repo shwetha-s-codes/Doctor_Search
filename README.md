@@ -37,10 +37,10 @@
 - 🔍 Easy doctor discovery by specialization and location
 - 💼 Comprehensive doctor profiles with ratings and experience
 - 🔐 Secure user authentication system
-- 📱 Fully responsive mobile design
+  
 - 🌙 Dark mode support for comfortable browsing
 - ⚡ Fast and intuitive search functionality
-- 💬 Real-time notifications and feedback
+
 
 ---
 
