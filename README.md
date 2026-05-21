@@ -50,8 +50,7 @@
 - ✅ **User Registration & Authentication** - Create accounts with secure password handling
 - ✅ **Advanced Search** - Filter doctors by specialization and location
 - ✅ **Doctor Profiles** - View detailed information about doctors including experience and ratings
-- ✅ **Appointments** - Book appointments with preferred doctors
-- ✅ **Responsive UI** - Works seamlessly on desktop, tablet, and mobile devices
+
 
 ### Interactive Features
 - ✅ **Smooth Navigation** - Elegant scroll animations between sections
@@ -65,7 +64,8 @@
 ### Admin Features
 - ✅ **Admin Dashboard** - Manage doctors and users
 - ✅ **Doctor Management** - Add, edit, and remove doctor profiles
-- ✅ **Analytics** - View usage statistics and trends
+
+
 
 ---
 
