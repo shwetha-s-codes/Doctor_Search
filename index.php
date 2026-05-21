@@ -100,5 +100,8 @@
     <p>© 2025 DocFinder. All Rights Reserved.</p>
 </footer>
 
+<!-- INTERACTIVE SCRIPT -->
+<script src="script.js"></script>
+
 </body>
 </html>
