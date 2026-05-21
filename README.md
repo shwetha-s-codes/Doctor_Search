@@ -502,20 +502,9 @@ Found a bug or have a feature suggestion?
 
 ---
 
-## 📈 Project Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Language Composition** | PHP (78.8%), CSS (19.9%), JavaScript (15%+), Hack (1.3%) |
-| **Total Files** | 10+ |
-| **Database Tables** | 3+ |
-| **Interactive Features** | 8+ |
-| **Responsive Breakpoints** | 4+ |
-| **Supported Specializations** | 5 (Cardiologist, Dermatologist, Pediatrician, Neurologist, Orthopedic) |
-| **Supported Locations** | 4 (New York, Los Angeles, Chicago, Houston) |
 
 ---
 
 
-### \ Shwetha Shetty
+### Shwetha Shetty
 
