@@ -6,7 +6,7 @@
 
 > **Find The Right Doctor, Anytime** - A comprehensive web application designed to help users search and connect with healthcare professionals based on specialization and location.
 
-🌐 **Live Demo:** https://docfinder.infinityfreeapp.com
+
 
 ---
 
@@ -87,16 +87,11 @@
 - **MySQL** - Database for user and doctor information
 
 ### Deployment
-- **Hosting:** InfinityFreeApp
+
+
 - **Version Control:** Git & GitHub
 
-### Language Composition
-```
-PHP:        78.8%  (Backend logic & server functionality)
-CSS:        19.9%  (Styling & animations)
-JavaScript: 15%+   (Interactive features)
-Hack:       1.3%   (Configuration files)
-```
+
 
 ---
 
@@ -521,12 +516,6 @@ Found a bug or have a feature suggestion?
 
 ---
 
-<div align="center">
 
-### Made with ❤️ by Shwetha Shetty
+### \ Shwetha Shetty
 
-⭐ If you find this project helpful, please consider giving it a star!
-
-[![Star on GitHub](https://img.shields.io/github/stars/shwetha-s-codes/Doctor_Search?style=social)](https://github.com/shwetha-s-codes/Doctor_Search)
-
-</div>
